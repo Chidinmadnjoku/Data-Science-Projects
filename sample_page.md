@@ -1,31 +1,23 @@
-## This can be your internal website page / project page
+# Data-Science-Portfolio
+### Compilation of Projects
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Project 1: Applied Data Analysis and Visualization of Offences in the UK for 2014 and 2015 :Project Brief
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+* Downloaded, refined and integrated datasets from a twenty-four month period of Crown Prosecution Service Case Outcomes by Principal Offence Categoryfrom the data.gov.uk website (link: https://data.gov.uk/dataset/89d0aef9-e2f9-4d1a-b779-5a33707c5f2c/crown-prosecution-service-case-outcomes-by-principal-offence-category-data).
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+* With the use of Python, applied data analytics tools and techniques related to descriptive and predictive analytics on the integrated dataset. Developed a prediction model using one linear regression technique, one clustering technique and one classification technique.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+* Prepared a report containing: a.Definition of, at least, two different hypothesis based on the currentdataset; b. Explained and justified cleaning / integration techniques used in the dataset; c. Analysed and interpretated results using descriptive analytics; d.Implemented a prediction model using one linear regression technique, one clustering technique and one classification technique; e. Critically reviewed the data analytics tools and techniques used. Analysed the effectiveness of the techniques used, discussed alternative solutions and compare strengths and weakness between them; f. Critically reviewed the visualisation tools used, analysed the effectiveness of the visualisation tools used, discussed alternative solutions and compared strengths and weakness between them.
 
-### 2. Assess assumptions on which statistical inference will be based
+## Project 2: Business Case Study
+## Customer Acquisition and Retention improvement Using Data Analysis Techniques
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+* Chose four data analysis techniques (Data Collection, Data Processing, Data Cleaning and Data Management), analysed and evaluated them.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+* Discussed the theoretical aspect of these techniques and the tools that can be used for them
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+* Critically analysed and evaluate the applications of these techniques
 
-### 4. Provide a basis for further data collection through surveys or experiments
+* Critically reviewed the available commercial and open-source data analysis software appropriate to the business issues.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Selected a business case with the data analysis requirements, synthesised a plan for addressing the probelms with the suggestions of the technique, the available   software and the estimated time plan.
